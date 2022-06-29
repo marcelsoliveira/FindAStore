@@ -4,10 +4,15 @@ Jumbo Find a store is a simple application that shows the location and informati
 * See the store address and opening times
 * See the store location in a Map.
 
-###Assumptions
+##Assumptions
 * The todayOpen and todayClosed times were used to show the opening time of all days of the week, including sundays
 * The city names were not used, insted the city name on the store name was used.
 * Some cities have composed names, only cities with composed names starting with 'St.', 'Ter' and 'Son' will have their names proberly handled by the application.
+
+You can see the app in action here:
+
+[Find a Store](https://marcelsoliveira.github.io/FindAStore/).
+
 
 ## Running the app
 
