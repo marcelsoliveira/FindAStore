@@ -1,0 +1,19 @@
+@font-face { 
+    font-family: jumbo-the-sans-regular; 
+    src: url('../font/JumboTheSans-Regular.ttf'); 
+} 
+
+@font-face { 
+    font-family: jumbo-the-sans-bold; 
+    src: url('../font/JumboTheSans-Bold.ttf'); 
+} 
+
+@font-face { 
+    font-family: jumbo-the-sans-Black; 
+    src: url('../font/JumboTheSans-Black.ttf'); 
+} 
+
+@font-face { 
+    font-family: the-sans-plain; 
+    src: url('../font/TheSans-Plain.ttf'); 
+} 
