@@ -13,6 +13,8 @@ You can see the app in action here:
 
 [Find a Store](https://marcelsoliveira.github.io/FindAStore/).
 
+## Improvements
+* The positions of the markers in the map are not accurate, they can be corrected by applying a threshold in the longitude and latitude provided for each store.
 
 ## Running the app
 
